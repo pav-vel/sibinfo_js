@@ -1,0 +1,15 @@
+.box {
+	margin: auto;
+	padding: 20px 0;
+	width: 600px;
+	text-align: center;
+	font-size: 2em;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0 0 10px #000;
+}
+button {
+	margin: 20px;
+	padding: 7px 12px;
+	font-size: 2em;
+}
